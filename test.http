@@ -1,0 +1,35 @@
+POST http://localhost:5000/get_form
+Content-Type: text/plain
+
+key=+7 988 497 42 00&key1=xcd85@mail.ru
+
+###
+
+POST http://localhost:5000/get_form
+Content-Type: text/plain
+
+key=+7 988 497 42 01&key1=xcd85@mail.ru
+
+###
+
+POST http://localhost:5000/get_form
+Content-Type: text/plain
+
+key=Test text&key1=11.01.2023
+
+###
+
+POST http://localhost:5000/get_form
+Content-Type: text/plain
+
+key=qwer@yandex.ru&key1=10.01.2023
+
+###
+
+###
+
+POST http://localhost:5000/get_form
+Content-Type: text/plain
+
+key=mail85@mail.ru&key1=09.01.2023&key2=+7 917 832 18 25
+
