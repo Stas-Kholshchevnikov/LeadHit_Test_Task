@@ -13,3 +13,6 @@
 
 
 ### Для загрузки *Docker image* выполните слудующую команду в терминале: `docker pull staskholshchevnikov/leadhit-test-app`
+
+#Стек
+Python, 
